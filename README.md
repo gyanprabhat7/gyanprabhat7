@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<h1 align="center">Hi 👋, I'm Gyan Prabhat (founder @epictioninteractive)</h1>
+<h1 align="center">Hi 👋, I'm Gyan Prabhat</h1>
 <h3 align="center">A passionate Tech Enthusiast and Game Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanprabhat7&label=Profile%20views&color=0e75b6&style=flat" alt="gyanprabhat7" /> </p>
@@ -28,11 +28,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/epiction_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epiction_in" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gyan prabhag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyan prabhag" height="30" width="40" /></a>
-<a href="https://instagram.com/gyann.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gyann.co" height="30" width="40" /></a>
-<a href="https://medium.com/@gyann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gyann" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/toxic element" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="toxic element" height="30" width="40" /></a>
+<a href="https://twitter.com/epiction_in" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/421/879/png-transparent-twitter-logo-social-media-iphone-organization-logo-twitter-computer-network-leaf-media.png" alt="epiction_in" height="30" width="40" /></a>
+  
+<a href="https://linkedin.com/in/gyan prabhat" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="gyan prabhag" height="30" width="40" /></a>
+
+<a href="https://instagram.com/gyann.co" target="blank"><img align="center" src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png" alt="gyann.co" height="30" width="40" /></a>
+  
+<a href="https://medium.com/@gyann" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="@gyann" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/c/toxic element" target="blank"><img align="center" src="https://img.freepik.com/free-icon/youtube_318-183441.jpg?w=360" alt="toxic element" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
