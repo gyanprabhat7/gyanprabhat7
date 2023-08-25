@@ -25,5 +25,10 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gyann) 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![image](https://github.com/gyanprabhat7/gyanprabhat7/assets/75989086/a2377630-bdc0-46fb-a3f0-a3c4d7a9093e)
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
