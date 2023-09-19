@@ -4,6 +4,7 @@
 
 # 💫 About Me:
 I'm a student and techpreneur from india. I'm currently pursuing Diploma in CSE (it's a waste of time) and building a premier software startup called Epiction Intetactive focusing on Video Game Development with other interactive products. I'm all about technology and always curious to learn new things. Hit me up if you wanna build algorithms for next space vehicle to mars together ;)
+
 🔭 I’m currently working on The Quest of the lost Artifact<br>👯 I’m looking to collaborate on some SaaS Products<br>🤝 I’m looking for help with Gyan Chaupar (Unity Engine)<br>🌱 I’m currently learning AI<br>💬 Ask me about game dev<br>
 
 
