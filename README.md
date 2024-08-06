@@ -25,7 +25,7 @@ I'm a student and techpreneur from india. I'm currently pursuing Diploma in CSE 
 ---
 [![](https://visitcount.itsvg.in/api?id=gyanprabhat7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=gyanprabhat7&color=blue)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gyann) 
