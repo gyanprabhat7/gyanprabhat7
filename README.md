@@ -23,8 +23,6 @@ I'm a student and techpreneur from india. I'm currently pursuing Diploma in CSE 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gyanprabhat7&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ![](https://komarev.com/ghpvc/?username=gyanprabhat7&color=blue&abbreviated=true&style=for-the-badge)
 
   ## 💰 You can help me by Donating
