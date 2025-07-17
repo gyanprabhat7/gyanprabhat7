@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Tech Enthusiast and Game Developer from India</h3>
 
 # 💫 About Me:
-I'm a student and techpreneur from india. I'm currently pursuing Diploma in CSE (it's a waste of time) and building a premier software startup called Epiction Intetactive focusing on Video Game Development with other interactive products. I'm all about technology and always curious to learn new things. Hit me up if you wanna build algorithms for next space vehicle to mars together ;)
+tech geek & a techpreneur from India, building a premier software startup called Epiction Intetactive focusing on Video Game Development with other interactive products. 
 
 
 ## 🌐 Socials:
